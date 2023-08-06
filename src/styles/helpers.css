@@ -1,0 +1,66 @@
+.c-font-jakarta {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.c-font-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.c-font-raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+.c-font-radio-canada {
+    font-family: 'Radio Canada', sans-serif;
+}
+
+.c-font-montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.c-font-poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.c-fw-100 {
+    font-weight: 100;
+}
+
+.c-fw-300 {
+    font-weight: 300;
+}
+
+.c-fw-400 {
+    font-weight: 400;
+}
+
+.c-fw-500 {
+    font-weight: 500;
+}
+
+.c-fw-600 {
+    font-weight: 600;
+}
+
+.c-fw-700 {
+    font-weight: 700;
+}
+
+.c-fw-800 {
+    font-weight: 800;
+}
+
+.c-font-op {
+    opacity: 0.5;
+}
+
+.hover {
+    transition: background 200ms ease, color 200ms ease;
+}
+
+.hover:hover {
+    background: linear-gradient(321deg, #a7f306 0%, #f3cd06 100%) !important;
+    color: rgba(26, 26, 26, 0.75) !important;
+    background-clip: border-box !important;
+    -webkit-text-fill-color: rgba(26, 26, 26, 0.75) !important;
+}
