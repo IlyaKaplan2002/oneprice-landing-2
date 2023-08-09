@@ -696,6 +696,7 @@ export const Wrapper = styled(Box)`
 
           p {
             font-size: 20px;
+            line-height: 25px;
           }
 
           .content {
