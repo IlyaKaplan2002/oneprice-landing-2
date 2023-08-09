@@ -305,7 +305,7 @@ function App() {
           <Box
             component="button"
             onClick={() =>
-              window.open("https://oneprice.ua/postachalnykam/", "_blank")
+              window.open("https://franchising.oneprice.ua/", "_blank")
             }
             className="partnerButton c-fw-600 hover"
           >
